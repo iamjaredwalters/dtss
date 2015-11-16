@@ -38,7 +38,7 @@
         if(!empty($json)) {
           $name  = $json[0]['artists'][0]['name'];
           $thumb = $json[0]['artists'][0]['thumb_url'];
-          $fb    = $json[0]['artists'][0]['facebook_tour_dates_url'];
+          $fb    = $json[0]['artists'][0]['facebook_page_url'];
           $shows = $json;
 
           // Artist general info
@@ -46,7 +46,11 @@
           echo '<img class="artist-img" src="' . $thumb . '">';
           echo '<div class="artist-info">';
           echo '<h1>' . $name . '</h1>';
-          echo '<a href="' . $fb . '">' . $name . ' on Facebook</a>';
+          if ($fb) {
+            echo '<a href="' . $fb . '">' . $name . ' on Facebook</a>';
+          } else {
+            echo 'No Facebook URL for this artist';
+          }
           echo '</div>';
           echo '</div>';
 
@@ -56,11 +60,13 @@
             $title    = $show['title'];
             $date     = $show['formatted_datetime'];
             $location = $show['formatted_location'];
+            $ticket   = $show['ticket_url'];
 
             echo '<ul class="show-info">';
             echo '<li>' . $title . '</li>';
             echo '<li>' . $date . '</li>';
             echo '<li>' . $location . '</li>';
+            echo '<li><a href="' . $ticket . '">Buy Ticket</a></li>';
             echo '</ul>';
           }
           echo '</div>';

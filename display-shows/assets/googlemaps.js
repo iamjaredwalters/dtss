@@ -8,9 +8,7 @@ jQuery(document).ready(function($) {
     // http://api.bandsintown.com/artists/' . $a['artist'] . '/events.json?api_version=2.0&app_id=jww-child-theme
 
     $.getJSON("http://api.bandsintown.com/artists/" + artist + "/events.json?callback=?&app_id=jww-child-theme", function(result) {
-      console.log(result);
       $.each(result, function(key, val) {
-        console.log(key, val);
         var location = []
         var venue    = val.venue.city;
         var lat      = val.venue.latitude;
