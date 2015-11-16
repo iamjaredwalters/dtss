@@ -11,7 +11,7 @@ Twenty Fifteen Child Theme, Display Shows Plugin, and All Page Link Shortcode
 1. Move ***display-shows*** folder into your WP plugin directory
   * Activate the plugin in your dashboard
 1. Install the [WordPress Importer](https://wordpress.org/plugins/wordpress-importer/) plugin 
-* Follow instructions from the Tools -> Import screen to import the included XML file.  Be sure you check "download and import file attachments
+* Follow instructions from the Tools -> Import screen to import the included XML file.  Be sure you check "download and import file attachments"
 1. In the WordPress dashboard navigate to Appearance -> Customize, choose Static Front Page and select Home from the dropdown then save
 
 ### Twenty Fifteen Child Theme
