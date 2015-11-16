@@ -21,7 +21,7 @@ Twenty Fifteen Child Theme, Display Shows Plugin, and All Page Link Shortcode
 * The custom post type "Artists" will display shows for the artists posts that have been created assuming the shortcode is present and the artist argument has been provided
 
 ### All Page Links
-[AllPageLinks] will print out page links to all pages of the site and can be viewed on `Home` page
+[AllPageLinks] will print out page links of all pages of the site and can be viewed on `Home` page
 
 ###  Display Shows
 1. The page `/shows` uses the `[DisplayShows]` shortcode provided by the plugin to display JSON feed from [Bands In Town](https://www.bandsintown.com/api/overview)
