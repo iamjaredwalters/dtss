@@ -1,0 +1,33 @@
+.show-info > li {
+  font-size: 0.7em;
+  display: inline-block;
+  padding: 0 5px;
+  border-right: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.show-info > li:last-child {
+  border-right: 0;
+}
+
+.artist-img,
+.artist-info {
+  display: inline-block;
+}
+
+.artist-img {
+  margin-bottom: 40px;
+}
+
+.artist-info {
+  vertical-align: top;
+  margin: 0 20px;
+}
+
+#map_wrapper {
+    height: 600px;
+}
+
+#map_canvas {
+    width: 100%;
+    height: 100%;
+}

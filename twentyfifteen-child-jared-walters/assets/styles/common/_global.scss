@@ -1,0 +1,25 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $font-family-heading;
+}
+
+
+p {
+  font-family: $font-family-body;
+}
+
+body {
+  color: $font-color;
+}
+
+a {
+  color: $brand-primary;
+
+  &:hover {
+    color: darken($brand-primary, 10%);
+  }
+}

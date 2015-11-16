@@ -1,0 +1,35 @@
+.single-artists {
+
+  &:before {
+    background-color: transparent;
+    box-shadow: none;
+  }
+
+  #content {
+    margin: 0;
+    width: 100%;
+  }
+
+  article {
+    margin: 0;
+  }
+
+  .artist-desc,
+  .all-shows {
+    display: inline-block;
+  }
+
+  .artist-desc {
+    width: 30%;
+    vertical-align: top;
+  }
+
+  .all-shows {
+    width: 70%;
+  }
+
+  #colophon {
+    width: 100%;
+    margin: 0;
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "twentyfifteen-child-jared-walters",
+  "version": "1.0.0",
+  "author": "Jared Walters",
+  "private": true,
+  "repository": {
+    "type": "git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.12.0",
+    "npm": ">=2.1.5"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.1.0"
+  }
+}
