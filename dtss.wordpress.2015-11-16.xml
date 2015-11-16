@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.3.1" created="2015-11-16 03:56" -->
+<!-- generator="WordPress/4.3.1" created="2015-11-16 16:11" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>dtss</title>
 	<link>http://dtss.dev</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Mon, 16 Nov 2015 03:56:38 +0000</pubDate>
+	<pubDate>Mon, 16 Nov 2015 16:11:26 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://dtss.dev</wp:base_site_url>
@@ -624,152 +624,6 @@
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
 			<wp:meta_value><![CDATA[Antique Farm Machinery]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Skrillex</title>
-		<link>http://dtss.dev/artists/skrillex/</link>
-		<pubDate>Sun, 15 Nov 2015 23:26:28 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://dtss.dev/?post_type=artists&#038;p=1376</guid>
-		<description></description>
-		<content:encoded><![CDATA[[DisplayShows artist="skrillex"]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1376</wp:post_id>
-		<wp:post_date>2015-11-15 23:26:28</wp:post_date>
-		<wp:post_date_gmt>2015-11-15 23:26:28</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>skrillex</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>artists</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Adele</title>
-		<link>http://dtss.dev/artists/adele/</link>
-		<pubDate>Sun, 15 Nov 2015 23:27:54 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://dtss.dev/?post_type=artists&#038;p=1378</guid>
-		<description></description>
-		<content:encoded><![CDATA[[DisplayShows artist="adele"]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1378</wp:post_id>
-		<wp:post_date>2015-11-15 23:27:54</wp:post_date>
-		<wp:post_date_gmt>2015-11-15 23:27:54</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>adele</wp:post_name>
-		<wp:status>trash</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>artists</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
-			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
-			<wp:meta_value><![CDATA[1447630573]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Radical Faces</title>
-		<link>http://dtss.dev/artists/radical-faces/</link>
-		<pubDate>Sun, 15 Nov 2015 23:36:35 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://dtss.dev/?post_type=artists&#038;p=1382</guid>
-		<description></description>
-		<content:encoded><![CDATA[[DisplayShows artist="radicalfaces"]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1382</wp:post_id>
-		<wp:post_date>2015-11-15 23:36:35</wp:post_date>
-		<wp:post_date_gmt>2015-11-15 23:36:35</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>radical-faces</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>artists</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Bryson Tiller</title>
-		<link>http://dtss.dev/artists/bryson-tiller/</link>
-		<pubDate>Sun, 15 Nov 2015 23:39:23 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://dtss.dev/?post_type=artists&#038;p=1384</guid>
-		<description></description>
-		<content:encoded><![CDATA[[DisplayShows artist="BrysonTiller"]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1384</wp:post_id>
-		<wp:post_date>2015-11-15 23:39:23</wp:post_date>
-		<wp:post_date_gmt>2015-11-15 23:39:23</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>bryson-tiller</wp:post_name>
-		<wp:status>trash</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>artists</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
-			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
-			<wp:meta_value><![CDATA[1447630798]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>AC/DC</title>
-		<link>http://dtss.dev/artists/acdc/</link>
-		<pubDate>Sun, 15 Nov 2015 23:40:14 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://dtss.dev/?post_type=artists&#038;p=1386</guid>
-		<description></description>
-		<content:encoded><![CDATA[[DisplayShows artist="acdc"]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1386</wp:post_id>
-		<wp:post_date>2015-11-15 23:40:14</wp:post_date>
-		<wp:post_date_gmt>2015-11-15 23:40:14</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>acdc</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>artists</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1461,41 +1315,6 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title></title>
-		<link>http://dtss.dev/?attachment_id=977</link>
-		<pubDate>Sat, 14 Nov 2015 17:42:39 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://dtss.dev/?attachment_id=977</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>977</wp:post_id>
-		<wp:post_date>2015-11-14 17:42:39</wp:post_date>
-		<wp:post_date_gmt>2015-11-14 17:42:39</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>977</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://dtss.dev/wp-content/uploads/2015/11/Eddy-Need-Remix-mp3-image.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2015/11/Eddy-Need-Remix-mp3-image.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_cover_hash</wp:meta_key>
-			<wp:meta_value><![CDATA[c64cd26a9d9500018888b373146cac8d]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:555;s:6:"height";i:550;s:4:"file";s:37:"2015/11/Eddy-Need-Remix-mp3-image.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:37:"Eddy-Need-Remix-mp3-image-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:37:"Eddy-Need-Remix-mp3-image-300x297.jpg";s:5:"width";i:300;s:6:"height";i:297;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:37:"Eddy-Need-Remix-mp3-image-555x510.jpg";s:5:"width";i:555;s:6:"height";i:510;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Horizontal Featured Image</title>
 		<link>http://dtss.dev/featured-image-horizontal/featured-image-horizontal-2/</link>
 		<pubDate>Fri, 15 Mar 2013 20:40:38 +0000</pubDate>
@@ -1668,6 +1487,41 @@
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
 			<wp:meta_value><![CDATA[Man Of Steel]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://dtss.dev/?attachment_id=977</link>
+		<pubDate>Sat, 14 Nov 2015 17:42:39 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://dtss.dev/?attachment_id=977</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>977</wp:post_id>
+		<wp:post_date>2015-11-14 17:42:39</wp:post_date>
+		<wp:post_date_gmt>2015-11-14 17:42:39</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>977</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://dtss.dev/wp-content/uploads/2015/11/Eddy-Need-Remix-mp3-image.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2015/11/Eddy-Need-Remix-mp3-image.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_cover_hash</wp:meta_key>
+			<wp:meta_value><![CDATA[c64cd26a9d9500018888b373146cac8d]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:555;s:6:"height";i:550;s:4:"file";s:37:"2015/11/Eddy-Need-Remix-mp3-image.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:37:"Eddy-Need-Remix-mp3-image-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:37:"Eddy-Need-Remix-mp3-image-300x297.jpg";s:5:"width";i:300;s:6:"height";i:297;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:37:"Eddy-Need-Remix-mp3-image-555x510.jpg";s:5:"width";i:555;s:6:"height";i:510;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -6761,6 +6615,281 @@
 		</wp:postmeta>
 	</item>
 	<item>
+		<title></title>
+		<link>http://dtss.dev/1351/</link>
+		<pubDate>Sat, 14 Nov 2015 17:42:49 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://dtss.dev/2015/11/14/1351/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1351</wp:post_id>
+		<wp:post_date>2015-11-14 17:42:49</wp:post_date>
+		<wp:post_date_gmt>2015-11-14 17:42:49</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>1351</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>1088</wp:post_parent>
+		<wp:menu_order>13</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="long-menu"><![CDATA[Long Menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[1094]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://dtss.dev/1352/</link>
+		<pubDate>Sat, 14 Nov 2015 17:42:49 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://dtss.dev/2015/11/14/1352/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1352</wp:post_id>
+		<wp:post_date>2015-11-14 17:42:49</wp:post_date>
+		<wp:post_date_gmt>2015-11-14 17:42:49</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>1352</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>1094</wp:post_parent>
+		<wp:menu_order>14</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="long-menu"><![CDATA[Long Menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[1102]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://dtss.dev/1353/</link>
+		<pubDate>Sat, 14 Nov 2015 17:42:49 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://dtss.dev/2015/11/14/1353/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1353</wp:post_id>
+		<wp:post_date>2015-11-14 17:42:49</wp:post_date>
+		<wp:post_date_gmt>2015-11-14 17:42:49</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>1353</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>1088</wp:post_parent>
+		<wp:menu_order>15</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="long-menu"><![CDATA[Long Menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[1096]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://dtss.dev/1354/</link>
+		<pubDate>Sat, 14 Nov 2015 17:42:49 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://dtss.dev/2015/11/14/1354/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1354</wp:post_id>
+		<wp:post_date>2015-11-14 17:42:49</wp:post_date>
+		<wp:post_date_gmt>2015-11-14 17:42:49</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>1354</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>1088</wp:post_parent>
+		<wp:menu_order>16</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="long-menu"><![CDATA[Long Menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[1098]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://dtss.dev/1355/</link>
+		<pubDate>Sat, 14 Nov 2015 17:42:49 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://dtss.dev/2015/11/14/1355/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1355</wp:post_id>
+		<wp:post_date>2015-11-14 17:42:49</wp:post_date>
+		<wp:post_date_gmt>2015-11-14 17:42:49</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>1355</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="testing-menu"><![CDATA[Testing Menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[1086]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Amazon Store</title>
 		<link>http://dtss.dev/amazon-store/</link>
 		<pubDate>Fri, 15 Mar 2013 22:48:51 +0000</pubDate>
@@ -7254,278 +7383,137 @@ Let’s make WordPress testing easier and resilient together.]]></content:encod
 		</wp:postmeta>
 	</item>
 	<item>
-		<title></title>
-		<link>http://dtss.dev/1351/</link>
-		<pubDate>Sat, 14 Nov 2015 17:42:49 +0000</pubDate>
+		<title>Parent Page</title>
+		<link>http://dtss.dev/parent-page/</link>
+		<pubDate>Fri, 15 Mar 2013 23:24:09 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://dtss.dev/2015/11/14/1351/</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1088</guid>
 		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
+		<content:encoded><![CDATA[This page the a parent page.
+
+It contains child pages.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1351</wp:post_id>
-		<wp:post_date>2015-11-14 17:42:49</wp:post_date>
-		<wp:post_date_gmt>2015-11-14 17:42:49</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>1351</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>1088</wp:post_parent>
-		<wp:menu_order>13</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="long-menu"><![CDATA[Long Menu]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[1094]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://dtss.dev/1352/</link>
-		<pubDate>Sat, 14 Nov 2015 17:42:49 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://dtss.dev/2015/11/14/1352/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1352</wp:post_id>
-		<wp:post_date>2015-11-14 17:42:49</wp:post_date>
-		<wp:post_date_gmt>2015-11-14 17:42:49</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>1352</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>1094</wp:post_parent>
-		<wp:menu_order>14</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="long-menu"><![CDATA[Long Menu]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[1102]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://dtss.dev/1353/</link>
-		<pubDate>Sat, 14 Nov 2015 17:42:49 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://dtss.dev/2015/11/14/1353/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1353</wp:post_id>
-		<wp:post_date>2015-11-14 17:42:49</wp:post_date>
-		<wp:post_date_gmt>2015-11-14 17:42:49</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>1353</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>1088</wp:post_parent>
-		<wp:menu_order>15</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="long-menu"><![CDATA[Long Menu]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[1096]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://dtss.dev/1354/</link>
-		<pubDate>Sat, 14 Nov 2015 17:42:49 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://dtss.dev/2015/11/14/1354/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1354</wp:post_id>
-		<wp:post_date>2015-11-14 17:42:49</wp:post_date>
-		<wp:post_date_gmt>2015-11-14 17:42:49</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>1354</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>1088</wp:post_parent>
-		<wp:menu_order>16</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="long-menu"><![CDATA[Long Menu]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[1098]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://dtss.dev/1355/</link>
-		<pubDate>Sat, 14 Nov 2015 17:42:49 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://dtss.dev/2015/11/14/1355/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1355</wp:post_id>
-		<wp:post_date>2015-11-14 17:42:49</wp:post_date>
-		<wp:post_date_gmt>2015-11-14 17:42:49</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>1355</wp:post_name>
+		<wp:post_id>1088</wp:post_id>
+		<wp:post_date>2013-03-15 18:24:09</wp:post_date>
+		<wp:post_date_gmt>2013-03-15 23:24:09</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>parent-page</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="testing-menu"><![CDATA[Testing Menu]]></category>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
+	</item>
+	<item>
+		<title>Child Page 01</title>
+		<link>http://dtss.dev/parent-page/child-page-01/</link>
+		<pubDate>Fri, 15 Mar 2013 23:25:40 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1090</guid>
+		<description></description>
+		<content:encoded><![CDATA[This is a child page.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1090</wp:post_id>
+		<wp:post_date>2013-03-15 18:25:40</wp:post_date>
+		<wp:post_date_gmt>2013-03-15 23:25:40</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>child-page-01</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>1088</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
+	</item>
+	<item>
+		<title>Child Page 02</title>
+		<link>http://dtss.dev/parent-page/child-page-02/</link>
+		<pubDate>Fri, 15 Mar 2013 23:25:51 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1092</guid>
+		<description></description>
+		<content:encoded><![CDATA[This is a child page.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1092</wp:post_id>
+		<wp:post_date>2013-03-15 18:25:51</wp:post_date>
+		<wp:post_date_gmt>2013-03-15 23:25:51</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>child-page-02</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>1088</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[1086]]></wp:meta_value>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
+	</item>
+	<item>
+		<title>Child Page 03</title>
+		<link>http://dtss.dev/parent-page/child-page-03/</link>
+		<pubDate>Fri, 15 Mar 2013 23:26:23 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1094</guid>
+		<description></description>
+		<content:encoded><![CDATA[This is a child page.
+
+And, just for fun, it also contains a child page (aka. a grandchild page).]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1094</wp:post_id>
+		<wp:post_date>2013-03-15 18:26:23</wp:post_date>
+		<wp:post_date_gmt>2013-03-15 23:26:23</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>child-page-03</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>1088</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
+	</item>
+	<item>
+		<title>Child Page 04</title>
+		<link>http://dtss.dev/parent-page/child-page-04/</link>
+		<pubDate>Fri, 15 Mar 2013 23:26:40 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1096</guid>
+		<description></description>
+		<content:encoded><![CDATA[This is a child page.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1096</wp:post_id>
+		<wp:post_date>2013-03-15 18:26:40</wp:post_date>
+		<wp:post_date_gmt>2013-03-15 23:26:40</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>child-page-04</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>1088</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -8076,6 +8064,161 @@ It should not be displayed by the theme.]]></content:encoded>
 		<category domain="category" nicename="unpublished"><![CDATA[Unpublished]]></category>
 	</item>
 	<item>
+		<title>Post Format: Gallery</title>
+		<link>http://dtss.dev/post-format-gallery/</link>
+		<pubDate>Mon, 10 Dec 2012 16:00:14 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=555</guid>
+		<description></description>
+		<content:encoded><![CDATA[[gallery]
+
+<!--nextpage-->
+
+You can use this page to test the Theme's handling of the[gallery]
+
+shortcode, including the <code>columns</code> parameter, from 1 to 10 columns. Themes are only required to support the default setting (3 columns), so this page is entirely optional.
+<h2>One Column</h2>
+[gallery columns="1"]
+<h2>Two Columns</h2>
+[gallery columns="2"]
+<h2>Three Columns</h2>
+[gallery columns="3"]
+<h2>Four Columns</h2>
+[gallery columns="4"]
+<h2>Five Columns</h2>
+[gallery columns="5"]
+<h2>Six Columns</h2>
+[gallery columns="6"]
+<h2>Seven Columns</h2>
+[gallery columns="7"]
+<h2>Eight Columns</h2>
+[gallery columns="8"]
+<h2>Nine Columns</h2>
+[gallery columns="9"]
+<h2>Ten Columns</h2>
+[gallery columns="10"]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>555</wp:post_id>
+		<wp:post_date>2012-12-10 10:00:14</wp:post_date>
+		<wp:post_date_gmt>2012-12-10 16:00:14</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>post-format-gallery</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
+		<category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_value><![CDATA[611]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_old_slug</wp:meta_key>
+			<wp:meta_value><![CDATA[post-format-test-gallery]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Post Format: Aside</title>
+		<link>http://dtss.dev/post-format-aside/</link>
+		<pubDate>Sun, 09 Dec 2012 15:00:54 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=559</guid>
+		<description></description>
+		<content:encoded><![CDATA[We fundamentally believe that our customers are more interested in a simple, attractive, and functional WordPress theme than they are having 12 color schemes to choose from, and a fancy slider with 8 transition effects.
+
+If you pick out a WordPress theme like you pick out drapes, you’re doing something wrong.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>559</wp:post_id>
+		<wp:post_date>2012-12-09 09:00:54</wp:post_date>
+		<wp:post_date_gmt>2012-12-09 15:00:54</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>post-format-aside</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="post-format-aside"><![CDATA[Aside]]></category>
+		<category domain="post_format" nicename="post-format-aside"><![CDATA[Aside]]></category>
+		<category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_wp_old_slug</wp:meta_key>
+			<wp:meta_value><![CDATA[post-format-test-aside]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Post Format: Chat</title>
+		<link>http://dtss.dev/post-format-chat/</link>
+		<pubDate>Sat, 08 Dec 2012 14:00:31 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=562</guid>
+		<description></description>
+		<content:encoded><![CDATA[John: Are we still meeting for breakfast this morning?
+
+John: Where is the rest of the team? I've been here since 3:00am.
+
+Tom: Umm... We actually sleep. Go back to bed, dude.
+
+John: Fuuuuuuuuuuuu
+
+Tom: Fine. But if I show up, I am not wearing pants.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>562</wp:post_id>
+		<wp:post_date>2012-12-08 08:00:31</wp:post_date>
+		<wp:post_date_gmt>2012-12-08 14:00:31</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>post-format-chat</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="post-format-chat"><![CDATA[Chat]]></category>
+		<category domain="post_format" nicename="post-format-chat"><![CDATA[Chat]]></category>
+		<category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_wp_old_slug</wp:meta_key>
+			<wp:meta_value><![CDATA[post-format-test-chat]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Post Format: Link</title>
+		<link>http://dtss.dev/post-format-link/</link>
+		<pubDate>Fri, 07 Dec 2012 13:00:53 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=565</guid>
+		<description></description>
+		<content:encoded><![CDATA[<a title="Video Game Inspired Mural [Pics, Videos]" href="http://wpdaily.co/mural/" target="_blank">8BIT's Office - Video Game Inspired Mural</a>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>565</wp:post_id>
+		<wp:post_date>2012-12-07 07:00:53</wp:post_date>
+		<wp:post_date_gmt>2012-12-07 13:00:53</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>post-format-link</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="post-format-link"><![CDATA[Link]]></category>
+		<category domain="post_format" nicename="post-format-link"><![CDATA[Link]]></category>
+		<category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_wp_old_slug</wp:meta_key>
+			<wp:meta_value><![CDATA[post-format-test-link]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Post Format: Image</title>
 		<link>http://dtss.dev/post-format-image/</link>
 		<pubDate>Wed, 05 Dec 2012 11:00:39 +0000</pubDate>
@@ -8317,6 +8460,44 @@ It should not be displayed by the theme.]]></content:encoded>
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>Post Format: Standard</title>
+		<link>http://dtss.dev/post-format-standard/</link>
+		<pubDate>Tue, 11 Dec 2012 17:00:11 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://wptest.io/demo/?p=946</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>This is an example of a standard post format</strong>.
+
+Inspiration is a spark. A flash of light. Ignition. But without the proper mixture of oxygen and fuel, inspiration both lives and dies in the same instant. My life, my experiences, my research; these things are fertile soil for the great blog posts hidden within me. I carry them always and they are present when I sit down to do my work.
+
+But all too often, it’s a struggle. The raw material is there, but the inspiration is not. The oxygen is abundant, but the fuel is scarce. And I’m left wondering, “How?”
+
+How do I harvest? How do I sift and pan? How do I mine the caverns within me for intellectual and emotional gems? How do I… write?
+
+Or perhaps a better question is, how do you? Yes, <em>you</em>, my kindred blog reader. Surely, <em>you</em> are similar. Surely, <em>you’ve</em> wrestled the Great Muse down to the dusty earth, and won.
+
+I know this: it starts before I sit down to type. Great posts begin with significant life challenges. With weighty problems to solve. With an urgent need or a mature discontent with the way things are today. Yes, I think all great posts begin before words are written.
+
+So get up, reader. Walk away from your keyboard, and live.
+
+Only then can you give life… to words.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>946</wp:post_id>
+		<wp:post_date>2012-12-11 11:00:11</wp:post_date>
+		<wp:post_date_gmt>2012-12-11 17:00:11</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>post-format-standard</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
+		<category domain="category" nicename="standard"><![CDATA[Standard]]></category>
+	</item>
+	<item>
 		<title>Post Format: Video (VideoPress)</title>
 		<link>http://dtss.dev/post-format-video-videopress/</link>
 		<pubDate>Sun, 02 Dec 2012 09:00:34 +0000</pubDate>
@@ -8359,140 +8540,6 @@ You will need to install <a title="Jetpack for WordPress" href="http://jetpack.
 		<wp:postmeta>
 			<wp:meta_key>standard_seo_post_meta_description</wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Parent Page</title>
-		<link>http://dtss.dev/parent-page/</link>
-		<pubDate>Fri, 15 Mar 2013 23:24:09 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1088</guid>
-		<description></description>
-		<content:encoded><![CDATA[This page the a parent page.
-
-It contains child pages.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1088</wp:post_id>
-		<wp:post_date>2013-03-15 18:24:09</wp:post_date>
-		<wp:post_date_gmt>2013-03-15 23:24:09</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>parent-page</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Child Page 01</title>
-		<link>http://dtss.dev/parent-page/child-page-01/</link>
-		<pubDate>Fri, 15 Mar 2013 23:25:40 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1090</guid>
-		<description></description>
-		<content:encoded><![CDATA[This is a child page.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1090</wp:post_id>
-		<wp:post_date>2013-03-15 18:25:40</wp:post_date>
-		<wp:post_date_gmt>2013-03-15 23:25:40</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>child-page-01</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>1088</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Child Page 02</title>
-		<link>http://dtss.dev/parent-page/child-page-02/</link>
-		<pubDate>Fri, 15 Mar 2013 23:25:51 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1092</guid>
-		<description></description>
-		<content:encoded><![CDATA[This is a child page.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1092</wp:post_id>
-		<wp:post_date>2013-03-15 18:25:51</wp:post_date>
-		<wp:post_date_gmt>2013-03-15 23:25:51</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>child-page-02</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>1088</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Child Page 03</title>
-		<link>http://dtss.dev/parent-page/child-page-03/</link>
-		<pubDate>Fri, 15 Mar 2013 23:26:23 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1094</guid>
-		<description></description>
-		<content:encoded><![CDATA[This is a child page.
-
-And, just for fun, it also contains a child page (aka. a grandchild page).]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1094</wp:post_id>
-		<wp:post_date>2013-03-15 18:26:23</wp:post_date>
-		<wp:post_date_gmt>2013-03-15 23:26:23</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>child-page-03</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>1088</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Child Page 04</title>
-		<link>http://dtss.dev/parent-page/child-page-04/</link>
-		<pubDate>Fri, 15 Mar 2013 23:26:40 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1096</guid>
-		<description></description>
-		<content:encoded><![CDATA[This is a child page.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1096</wp:post_id>
-		<wp:post_date>2013-03-15 18:26:40</wp:post_date>
-		<wp:post_date_gmt>2013-03-15 23:26:40</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>child-page-04</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>1088</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -9418,161 +9465,6 @@ Post Page 3]]></content:encoded>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Post Format: Gallery</title>
-		<link>http://dtss.dev/post-format-gallery/</link>
-		<pubDate>Mon, 10 Dec 2012 16:00:14 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=555</guid>
-		<description></description>
-		<content:encoded><![CDATA[[gallery]
-
-<!--nextpage-->
-
-You can use this page to test the Theme's handling of the[gallery]
-
-shortcode, including the <code>columns</code> parameter, from 1 to 10 columns. Themes are only required to support the default setting (3 columns), so this page is entirely optional.
-<h2>One Column</h2>
-[gallery columns="1"]
-<h2>Two Columns</h2>
-[gallery columns="2"]
-<h2>Three Columns</h2>
-[gallery columns="3"]
-<h2>Four Columns</h2>
-[gallery columns="4"]
-<h2>Five Columns</h2>
-[gallery columns="5"]
-<h2>Six Columns</h2>
-[gallery columns="6"]
-<h2>Seven Columns</h2>
-[gallery columns="7"]
-<h2>Eight Columns</h2>
-[gallery columns="8"]
-<h2>Nine Columns</h2>
-[gallery columns="9"]
-<h2>Ten Columns</h2>
-[gallery columns="10"]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>555</wp:post_id>
-		<wp:post_date>2012-12-10 10:00:14</wp:post_date>
-		<wp:post_date_gmt>2012-12-10 16:00:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>post-format-gallery</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
-		<category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[611]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_old_slug</wp:meta_key>
-			<wp:meta_value><![CDATA[post-format-test-gallery]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Post Format: Aside</title>
-		<link>http://dtss.dev/post-format-aside/</link>
-		<pubDate>Sun, 09 Dec 2012 15:00:54 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=559</guid>
-		<description></description>
-		<content:encoded><![CDATA[We fundamentally believe that our customers are more interested in a simple, attractive, and functional WordPress theme than they are having 12 color schemes to choose from, and a fancy slider with 8 transition effects.
-
-If you pick out a WordPress theme like you pick out drapes, you’re doing something wrong.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>559</wp:post_id>
-		<wp:post_date>2012-12-09 09:00:54</wp:post_date>
-		<wp:post_date_gmt>2012-12-09 15:00:54</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>post-format-aside</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="post-format-aside"><![CDATA[Aside]]></category>
-		<category domain="post_format" nicename="post-format-aside"><![CDATA[Aside]]></category>
-		<category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_wp_old_slug</wp:meta_key>
-			<wp:meta_value><![CDATA[post-format-test-aside]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Post Format: Chat</title>
-		<link>http://dtss.dev/post-format-chat/</link>
-		<pubDate>Sat, 08 Dec 2012 14:00:31 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=562</guid>
-		<description></description>
-		<content:encoded><![CDATA[John: Are we still meeting for breakfast this morning?
-
-John: Where is the rest of the team? I've been here since 3:00am.
-
-Tom: Umm... We actually sleep. Go back to bed, dude.
-
-John: Fuuuuuuuuuuuu
-
-Tom: Fine. But if I show up, I am not wearing pants.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>562</wp:post_id>
-		<wp:post_date>2012-12-08 08:00:31</wp:post_date>
-		<wp:post_date_gmt>2012-12-08 14:00:31</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>post-format-chat</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="post-format-chat"><![CDATA[Chat]]></category>
-		<category domain="post_format" nicename="post-format-chat"><![CDATA[Chat]]></category>
-		<category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_wp_old_slug</wp:meta_key>
-			<wp:meta_value><![CDATA[post-format-test-chat]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Post Format: Link</title>
-		<link>http://dtss.dev/post-format-link/</link>
-		<pubDate>Fri, 07 Dec 2012 13:00:53 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=565</guid>
-		<description></description>
-		<content:encoded><![CDATA[<a title="Video Game Inspired Mural [Pics, Videos]" href="http://wpdaily.co/mural/" target="_blank">8BIT's Office - Video Game Inspired Mural</a>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>565</wp:post_id>
-		<wp:post_date>2012-12-07 07:00:53</wp:post_date>
-		<wp:post_date_gmt>2012-12-07 13:00:53</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>post-format-link</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="post-format-link"><![CDATA[Link]]></category>
-		<category domain="post_format" nicename="post-format-link"><![CDATA[Link]]></category>
-		<category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_wp_old_slug</wp:meta_key>
-			<wp:meta_value><![CDATA[post-format-test-link]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Title With Markup</title>
 		<link>http://dtss.dev/title-with-markup/</link>
 		<pubDate>Sat, 05 Jan 2013 16:00:49 +0000</pubDate>
@@ -10002,44 +9894,6 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Post Format: Standard</title>
-		<link>http://dtss.dev/post-format-standard/</link>
-		<pubDate>Tue, 11 Dec 2012 17:00:11 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/?p=946</guid>
-		<description></description>
-		<content:encoded><![CDATA[<strong>This is an example of a standard post format</strong>.
-
-Inspiration is a spark. A flash of light. Ignition. But without the proper mixture of oxygen and fuel, inspiration both lives and dies in the same instant. My life, my experiences, my research; these things are fertile soil for the great blog posts hidden within me. I carry them always and they are present when I sit down to do my work.
-
-But all too often, it’s a struggle. The raw material is there, but the inspiration is not. The oxygen is abundant, but the fuel is scarce. And I’m left wondering, “How?”
-
-How do I harvest? How do I sift and pan? How do I mine the caverns within me for intellectual and emotional gems? How do I… write?
-
-Or perhaps a better question is, how do you? Yes, <em>you</em>, my kindred blog reader. Surely, <em>you</em> are similar. Surely, <em>you’ve</em> wrestled the Great Muse down to the dusty earth, and won.
-
-I know this: it starts before I sit down to type. Great posts begin with significant life challenges. With weighty problems to solve. With an urgent need or a mature discontent with the way things are today. Yes, I think all great posts begin before words are written.
-
-So get up, reader. Walk away from your keyboard, and live.
-
-Only then can you give life… to words.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>946</wp:post_id>
-		<wp:post_date>2012-12-11 11:00:11</wp:post_date>
-		<wp:post_date_gmt>2012-12-11 17:00:11</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>post-format-standard</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
-		<category domain="category" nicename="standard"><![CDATA[Standard]]></category>
-	</item>
-	<item>
 		<title>Excerpt</title>
 		<link>http://dtss.dev/excerpt/</link>
 		<pubDate>Fri, 15 Mar 2013 19:38:08 +0000</pubDate>
@@ -10062,87 +9916,6 @@ Only then can you give life… to words.]]></content:encoded>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="content"><![CDATA[Content]]></category>
 		<category domain="category" nicename="excerpt"><![CDATA[Excerpt]]></category>
-	</item>
-	<item>
-		<title>Sticky</title>
-		<link>http://dtss.dev/sticky/</link>
-		<pubDate>Mon, 07 Jan 2013 13:07:21 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/?p=1241</guid>
-		<description></description>
-		<content:encoded><![CDATA[This is a sticky post.
-
-There are a few things to verify:
-<ul>
-	<li>The sticky post should be distinctly recognizable in some way in comparison to normal posts. You can style the <code>.sticky</code> class if you are using the <a title="WordPress Codex post_class() Function" href="http://codex.wordpress.org/Function_Reference/post_class" target="_blank">post_class()</a> function to generate your post classes, which is a best practice.</li>
-	<li>They should show at the very top of the blog index page, even though they could be several posts back chronologically.</li>
-	<li>They should still show up again in their chronologically correct postion in time, but without the sticky indicator.</li>
-	<li>If you have a plugin or widget that lists popular posts or comments, make sure that this sticky post is not always at the top of those lists unless it really is popular.</li>
-</ul>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1241</wp:post_id>
-		<wp:post_date>2013-01-07 07:07:21</wp:post_date>
-		<wp:post_date_gmt>2013-01-07 13:07:21</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>sticky</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>1</wp:is_sticky>
-		<category domain="category" nicename="sticky"><![CDATA[Sticky]]></category>
-		<wp:postmeta>
-			<wp:meta_key>standard_seo_post_level_layout</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>standard_link_url_field</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>standard_seo_post_meta_description</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Hello world!</title>
-		<link>http://dtss.dev/hello-world/</link>
-		<pubDate>Sat, 14 Nov 2015 17:41:58 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://dtss.dev/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date>2015-11-14 17:41:58</wp:post_date>
-		<wp:post_date_gmt>2015-11-14 17:41:58</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>hello-world</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-		<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[Mr WordPress]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP></wp:comment_author_IP>
-			<wp:comment_date>2015-11-14 17:41:58</wp:comment_date>
-			<wp:comment_date_gmt>2015-11-14 17:41:58</wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.]]></wp:comment_content>
-			<wp:comment_approved>1</wp:comment_approved>
-			<wp:comment_type></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-		</wp:comment>
 	</item>
 	<item>
 		<title>More Tag</title>
@@ -10416,6 +10189,87 @@ This post tests WordPress' <a title="Twitter Embeds" href="http://en.support.wor
 			<wp:meta_key>_oembed_time_f88cff8642ace598d58054523adbf652</wp:meta_key>
 			<wp:meta_value><![CDATA[1447523077]]></wp:meta_value>
 		</wp:postmeta>
+	</item>
+	<item>
+		<title>Sticky</title>
+		<link>http://dtss.dev/sticky/</link>
+		<pubDate>Mon, 07 Jan 2013 13:07:21 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://wptest.io/demo/?p=1241</guid>
+		<description></description>
+		<content:encoded><![CDATA[This is a sticky post.
+
+There are a few things to verify:
+<ul>
+	<li>The sticky post should be distinctly recognizable in some way in comparison to normal posts. You can style the <code>.sticky</code> class if you are using the <a title="WordPress Codex post_class() Function" href="http://codex.wordpress.org/Function_Reference/post_class" target="_blank">post_class()</a> function to generate your post classes, which is a best practice.</li>
+	<li>They should show at the very top of the blog index page, even though they could be several posts back chronologically.</li>
+	<li>They should still show up again in their chronologically correct postion in time, but without the sticky indicator.</li>
+	<li>If you have a plugin or widget that lists popular posts or comments, make sure that this sticky post is not always at the top of those lists unless it really is popular.</li>
+</ul>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1241</wp:post_id>
+		<wp:post_date>2013-01-07 07:07:21</wp:post_date>
+		<wp:post_date_gmt>2013-01-07 13:07:21</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>sticky</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>1</wp:is_sticky>
+		<category domain="category" nicename="sticky"><![CDATA[Sticky]]></category>
+		<wp:postmeta>
+			<wp:meta_key>standard_seo_post_level_layout</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>standard_link_url_field</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>standard_seo_post_meta_description</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Hello world!</title>
+		<link>http://dtss.dev/hello-world/</link>
+		<pubDate>Sat, 14 Nov 2015 17:41:58 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://dtss.dev/?p=1</guid>
+		<description></description>
+		<content:encoded><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1</wp:post_id>
+		<wp:post_date>2015-11-14 17:41:58</wp:post_date>
+		<wp:post_date_gmt>2015-11-14 17:41:58</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>hello-world</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:comment>
+			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_author><![CDATA[Mr WordPress]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
+			<wp:comment_author_IP></wp:comment_author_IP>
+			<wp:comment_date>2015-11-14 17:41:58</wp:comment_date>
+			<wp:comment_date_gmt>2015-11-14 17:41:58</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi, this is a comment.
+To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
 	</item>
 	<item>
 		<title>Tiled Gallery</title>
