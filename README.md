@@ -1,7 +1,7 @@
 # Overview
 Twenty Fifteen Child Theme, Display Shows Plugin, and All Page Link Shortcode
 
-## Installation
+## Instructions for use
 1. Clone or extract the DTSS project into a local directory
 2. Move the ***twentyfifteen-child-jared-walters*** child theme into your WordPress theme directory
   * Be sure that you also have the [Twenty Fifteen](https://wordpress.org/themes/twentyfifteen/) theme installed in the theme directory as well
