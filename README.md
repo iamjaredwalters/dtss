@@ -27,5 +27,5 @@ Twenty Fifteen Child Theme, Display Shows Plugin, and All Page Link Shortcode
 1. The page `/shows` uses the `[DisplayShows]` shortcode provided by the plugin to display JSON feed from [Bands In Town](https://www.bandsintown.com/api/overview)
 * The shortcode supports an `artist` argument that defines the artist to display shows from.  If no artist is defined then the plugin will default to Nathanial Rateliff as the artist
 * A map of all show locations is displayed at the bottom of a page where the shortcode is included
-1. The custome post type `Artists` has been created and displays show information for each artist created via the `[DisplayShows]` shortcode
+1. The custom post type `Artists` has been created and displays show information for each artist created via the `[DisplayShows]` shortcode
 
